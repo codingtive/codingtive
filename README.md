@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @codingtive
+- 👀 I’m interested in mobile application development
+- 🌱 I’m currently learning Android and iOS platforms.
+- 💞️ I’m looking to collaborate on open source project and freelance.
+- 📫 How to reach me, contact codingtive@gmail.com
